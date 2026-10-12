@@ -13,3 +13,5 @@
 .Rhistory
 .RData
 .Ruserdata
+.gitignore
+**/*.quarto_ipynb

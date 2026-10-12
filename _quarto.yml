@@ -10,7 +10,7 @@ website:
   image: assets/social-card.svg
   navbar:
     title: "INNERSPEECH"
-    logo: assets/favicon.svg
+    # logo: assets/favicon.svg
     left:
       - text: "Le projet"
         href: index.qmd
@@ -18,7 +18,7 @@ website:
         href: recherche.qmd
       - text: "Participer"
         href: participer.qmd
-      - text: "Recrutement"
+      - text: "Recrutements"
         href: recrutements.qmd
       - text: "L'équipe"
         href: equipe.qmd

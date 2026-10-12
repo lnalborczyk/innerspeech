@@ -29,7 +29,7 @@ title-block-banner: false
 <div class="hero-copy">
 <div class="eyebrow"><span class="live-dot"></span> PROJET DE RECHERCHE · 2026-2030 </div>
 <h1>Et si nous n'avions pas tous <em>la même voix intérieure</em> ?</h1>
-<p class="hero-lead">Certaines personnes entendent presque une voix lorsqu'elles pensent. D'autres pensent avec des mots, sans rien « entendre ». Et d'autres encore n'éprouvent pratiquement pas de parole intérieure. <strong>Pourquoi ?</strong></p>
+<p class="hero-lead">Certaines personnes entendent une voix lorsqu'elles pensent. D'autres pensent avec des mots, sans rien "entendre". Et d'autres encore n'éprouvent pratiquement pas de parole intérieure. <strong>Pourquoi ?</strong></p>
 <div class="cta-row">
 <a class="cta primary" href="recherche.qmd">Découvrir le projet <span aria-hidden="true">↗</span></a>
 <a class="cta secondary" href="participer.qmd">Participer à une étude <span aria-hidden="true">↗</span></a>
@@ -40,32 +40,51 @@ title-block-banner: false
 :::
 
 ::: {.wide-section}
-<div class="section-kicker">UNE EXPÉRIENCE INTIME, DES QUESTIONS SCIENTIFIQUES</div>
-<h2>Quand vous pensez, <em>qu'entendez-vous ?</em></h2>
+
+<h2>Lorsque vous pensez, <em>qu'entendez-vous ?</em></h2>
 <p class="section-intro">La parole intérieure nous accompagne pour lire, mémoriser, anticiper, ou réfléchir. Pourtant, sa forme varie considérablement d'une personne à l'autre. Le projet INNERSPEECH cherche à comprendre cette diversité.</p>
 <div class="feature-grid">
 <div class="feature-card"><div class="feature-num">01 <span>◌</span></div><h3>Décrire la diversité</h3><p>Mesurer les différences entre les expériences de parole intérieure et leur relation avec notre perception des sons de la parole.</p><a href="recherche.qmd#diversite">Explorer ce volet ↗</a></div>
-<div class="feature-card"><div class="feature-num">02 <span>⌁</span></div><h3>Observer le cerveau</h3><p>Étudier quand, où, et comment le cerveau produit et représente cette parole silencieuse, grâce à l'EEG, à la MEG, et à l'IRM à 7 teslas.</p><a href="recherche.qmd#cerveau">Explorer ce volet ↗</a></div>
+<div class="feature-card"><div class="feature-num">02 <span>⌁</span></div><h3>Observer le cerveau</h3><p>Étudier quand, où, et comment le cerveau produit et représente cette parole intérieure, grâce à l'EEG, à la MEG, et à l'IRM à 7 teslas.</p><a href="recherche.qmd#cerveau">Explorer ce volet ↗</a></div>
 <div class="feature-card"><div class="feature-num">03 <span>✳</span></div><h3>Construire un modèle</h3><p>Tester, avec des réseaux de neurones artificiels, comment la parole pourrait devenir intérieure au cours du développement.</p><a href="recherche.qmd#modele">Explorer ce volet ↗</a></div>
 </div>
 :::
 
 ::: {.dark-band}
-<div class="band-copy"><div class="section-kicker">LA QUESTION CENTRALE</div><h2>Comment le cerveau produit-il des mots <em>sans les prononcer</em> ?</h2><p>Notre hypothèse : une partie des mécanismes utilisés pour préparer la parole à voix haute peut être mobilisée sans mouvement effectif. Le cerveau pourrait alors prédire le son des mots — une piste pour expliquer l'expérience d'une « voix » intérieure.</p><a class="cta light" href="recherche.qmd">Comprendre notre approche ↗</a></div>
+<div class="band-copy"><div class="section-kicker">LA QUESTION CENTRALE</div><h2>Comment le cerveau produit-il des mots <em>sans les prononcer</em> ?</h2><p>Notre hypothèse : une partie des mécanismes utilisés pour préparer la parole à voix haute peut être mobilisée sans mouvement effectif. Le cerveau pourrait alors prédire le son des mots -- une piste pour expliquer l'expérience d'une "voix" intérieure.</p><a class="cta light" href="recherche.qmd">Comprendre notre approche ↗</a></div>
+<!--
 <div class="band-graphic" aria-hidden="true"><div class="sound-quote">« bon »</div><div class="sound-flow">INTENTION <span>⟶</span> PRÉPARATION <span>⟶</span> PRÉDICTION</div><div class="sound-caption">Parler sans produire de son.</div></div>
+-->
 :::
 
 ::: {.wide-section}
 <div class="section-kicker">VOUS POUVEZ CONTRIBUER</div>
 <h2>La recherche a besoin <em>de votre expérience.</em></h2>
-<p class="section-intro">Que votre parole intérieure soit très présente, discrète ou absente, votre expérience nous intéresse. Plusieurs études sont prévues au fil du projet.</p>
+<p class="section-intro">Que votre parole intérieure soit très présente, discrète, ou absente, votre expérience nous intéresse. Plusieurs études sont prévues au fil du projet.</p>
+
+```{=html}
 <div class="opportunity-grid">
-<a class="opportunity" href="participer.qmd#eeg"><span class="op-tag">ÉTUDE PRÉVUE · PRINTEMPS 2027</span><h3>Une étude EEG à Aix-en-Provence</h3><p>Écouter des sons, réaliser des jugements simples et enregistrer l'activité électrique du cerveau.</p><div class="op-bottom">Avril–mai 2027 (prévision) <span>↗</span></div></a>
-<a class="opportunity" href="participer.qmd#paris"><span class="op-tag">ÉTUDE PRÉVUE · 2028</span><h3>Une étude MEG & IRM 7T à Paris</h3><p>Explorer la parole intérieure et l'activité cérébrale par deux techniques complémentaires.</p><div class="op-bottom">Institut du Cerveau, Paris <span>↗</span></div></a>
+  <a class="opportunity" href="participer.html#eeg">
+    <span class="op-tag">ÉTUDE PRÉVUE · AVRIL–MAI 2027</span>
+    <h3>Une étude EEG à Aix-en-Provence</h3>
+    <p>Écouter des sons, réaliser des jugements simples et enregistrer l'activité électrique du cerveau.</p>
+    <div class="op-bottom">
+      Laboratoire Parole et Langage, Aix-en-Provence <span>↗</span>
+    </div>
+  </a>
+  <a class="opportunity" href="participer.html#paris">
+    <span class="op-tag">ÉTUDE PRÉVUE · COURANT 2028</span>
+    <h3>Une étude MEG &amp; IRM 7T à Paris</h3>
+    <p>Explorer la parole intérieure et l'activité cérébrale par deux techniques complémentaires.</p>
+    <div class="op-bottom">
+      Institut du Cerveau, Paris <span>↗</span>
+    </div>
+  </a>
 </div>
+```
 :::
 
 ::: {.bottom-invite}
-<div><div class="section-kicker">REJOINDRE L'AVENTURE</div><h2>La science se construit <em>ensemble.</em></h2><p>Une offre de postdoctorat en modélisation neurocomputationnelle sera annoncée ultérieurement.</p></div>
+<div><div class="section-kicker">REJOINDRE L'AVENTURE</div><h2>La science se construit <em>ensemble.</em></h2><p>Une offre de postdoctorat en modélisation neurocomputationnelle sera annoncée prochainement</p></div>
 <a class="cta primary" href="recrutements.qmd">Voir les opportunités ↗</a>
 :::
