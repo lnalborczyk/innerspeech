@@ -1,0 +1,7 @@
+<script>
+  // Apporte une classe aux liens de navigation actifs sans collecter de données.
+  document.querySelectorAll('a[href]').forEach(a => {
+    const href = a.getAttribute('href');
+    if (href && href.startsWith('#')) a.setAttribute('aria-label', a.textContent.trim() || 'Accéder à une section');
+  });
+</script>

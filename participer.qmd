@@ -1,0 +1,50 @@
+---
+title: "Participer à nos études"
+subtitle: "Votre manière de penser est précieuse pour la recherche."
+---
+
+::: {.page-lead}
+<div class="section-kicker">APPEL À PARTICIPATION · CALENDRIER PRÉVISIONNEL</div>
+# Chaque expérience intérieure compte.
+
+Vous avez une voix intérieure très vive ? Vous pensez avec des mots sans les entendre ? Vous n'avez pas l'impression de parler dans votre tête ? **Toutes ces expériences nous intéressent.** Les recrutements ci-dessous ne sont **pas encore ouverts** : cette page sera mise à jour lorsque les protocoles auront reçu les autorisations nécessaires et que les modalités pratiques seront fixées.
+:::
+
+::: {#eeg .study-card}
+<div class="study-header"><span class="study-code">ÉTUDE 01</span><span class="study-state">À VENIR · AVRIL–MAI 2027 (PRÉVISION)</span></div>
+## Écouter des sons et mesurer l'activité cérébrale
+
+**<span class="location">Aix-en-Provence · Électroencéphalographie (EEG)</span>**
+
+Nous prévoyons d'inviter des adultes à écouter des sons de la parole, notamment des voyelles, puis à indiquer à quel point ils se ressemblent. Des questionnaires porteront également sur leur expérience de parole intérieure. Pendant une partie de l'étude, l'activité électrique du cerveau sera enregistrée à l'aide d'électrodes placées sur le cuir chevelu.
+
+**Ce qu'il faut savoir :**
+
+- L'EEG est une technique non invasive qui mesure l'activité électrique cérébrale.
+- Le protocole scientifique prévoit de recruter **60 à 100 adultes** pour l'étude EEG.
+- Les critères d'éligibilité, la durée de la visite, l'indemnisation éventuelle et les modalités d'inscription seront communiqués avant l'ouverture du recrutement.
+
+<a class="cta secondary" href="contact.qmd">Être informé·e de l'ouverture ↗</a>
+:::
+
+::: {#paris .study-card}
+<div class="study-header"><span class="study-code">ÉTUDE 02</span><span class="study-state">À VENIR · 2028 (PRÉVISION)</span></div>
+## Observer la parole intérieure avec deux méthodes complémentaires
+
+**<span class="location">Paris · Institut du Cerveau · MEG et IRM 7T</span>**
+
+Cette étude vise à comprendre ce qui se passe lorsque l'on **parle intérieurement**, lorsque l'on **imagine entendre des mots**, lorsque l'on **lit silencieusement** ou lorsque l'on **écoute de la parole**. Elle combinera des enregistrements par magnétoencéphalographie (MEG) et par IRM à très haut champ (7 teslas).
+
+**Ce qu'il faut savoir :**
+
+- La MEG enregistre les champs magnétiques associés à l'activité cérébrale ; l'IRM permet d'en étudier la localisation.
+- Le protocole prévoit **30 adultes**, répartis en deux groupes selon leur expérience de parole intérieure.
+- Des critères particuliers d'éligibilité et de sécurité s'appliqueront à l'IRM ; ils seront précisés lors du recrutement.
+- Les dates, la durée des visites, l'indemnisation éventuelle et les modalités de candidature restent à confirmer.
+
+<a class="cta secondary" href="contact.qmd">Être informé·e de l'ouverture ↗</a>
+:::
+
+::: {.info-strip}
+**Important :** cette page est informative, pas un formulaire d'inscription. Aucun examen ni participation n'est proposé sans information préalable, consentement et autorisations applicables. Avoir une parole intérieure faible ou absente n'est pas présenté ici comme une maladie ni comme un diagnostic.
+:::

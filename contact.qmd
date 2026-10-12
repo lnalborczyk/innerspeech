@@ -1,0 +1,29 @@
+---
+title: "Contact"
+---
+
+<!--
+
+<div class="section-kicker">CONTACTER LE PROJET</div>
+# Restons en contact.
+
+-->
+
+::: {.page-lead}
+Pour toute question concernant le projet INNERSPEECH, les futurs recrutements, ou les études prévues à Aix-en-Provence et à Paris, vous pouvez contacter l'équipe scientifique.
+:::
+
+::: {.contact-panel}
+### Contact scientifique
+
+**Ladislas Nalborczyk**: <https://lnalborczyk.github.io>   
+Laboratoire Parole et Langage (LPL)  
+CNRS / Aix-Marseille Université
+:::
+
+<!--
+
+
+Pour recevoir des informations sur les études à venir, merci de patienter jusqu'à la publication d'une adresse ou d'un formulaire officiel. Aucun système de collecte de coordonnées n'est actif sur ce site.
+
+-->

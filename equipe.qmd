@@ -1,0 +1,25 @@
+---
+title: "L'équipe"
+subtitle: "Une collaboration entre neurosciences, sciences du langage, et modélisation informatique."
+---
+
+<!--
+
+::: {.page-lead}
+<div class="section-kicker">LES PERSONNES ET LES LABORATOIRES</div>
+# Une question commune, des expertises complémentaires.
+:::
+
+-->
+
+<div class="people-grid">
+<div class="person"><span class="person-mark">LN</span><h3>Ladislas Nalborczyk</h3><div class="role">Responsable scientifique · Aix-en-Provence</div><p>CNRS / Aix-Marseille Université. Coordination et intégration des approches expérimentales et computationnelles.</p></div>
+<div class="person"><span class="person-mark">VS</span><h3>Virgile Segaux</h3><div class="role">Doctorant · INNERSPEECH</div><p>Étude de la diversité de la parole intérieure et de ses mécanismes cognitifs et cérébraux.</p></div>
+<div class="person"><span class="person-mark">LC</span><h3>Laurent Cohen</h3><div class="role">Collaborateur scientifique · Paris</div><p>Institut du Cerveau / Sorbonne Université / AP-HP. Expertise en neuroimagerie et étude des réseaux cérébraux du langage.</p></div>
+<div class="person"><span class="person-mark">TH</span><h3>Thomas Hueber</h3><div class="role">Collaborateur scientifique · Grenoble</div><p>CNRS / Univ. Grenoble Alpes / GIPSA-lab. Expertise en modélisation de la perception et production de parole.</p></div>
+<div class="person person-open"><span class="person-mark">+</span><h3>Futur·e postdoctorant·e</h3><div class="role">Recrutement à venir</div><p>Développement du modèle neurocomputationnel de la parole intérieure.</p><a href="recrutements.qmd">En savoir plus ↗</a></div>
+</div>
+
+## Institutions partenaires
+
+**Laboratoire Parole et Langage** (LPL, Aix-Marseille Université / CNRS) · **Institut du Cerveau** (Paris) · **GIPSA-lab** (CNRS / Grenoble Alpes). Le projet est financé par l'**Agence nationale de la recherche (ANR)** dans le cadre de l'AAPG JCJC 2026.
