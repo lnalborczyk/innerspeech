@@ -4,13 +4,12 @@ project:
 
 website:
   title: "INNERSPEECH"
-  description: "Comprendre la diversité de la parole intérieure et ses mécanismes cérébraux. Projet financé par l'ANR."
+  description: "Comprendre la diversité de la parole intérieure et ses mécanismes cérébraux."
   site-url: "https://lnalborczyk.github.io/innerspeech/"
   favicon: assets/favicon.svg
   image: assets/social-card.svg
   navbar:
     title: "INNERSPEECH"
-    # logo: assets/favicon.svg
     left:
       - text: "Le projet"
         href: index.qmd
@@ -26,9 +25,6 @@ website:
       - text: "Contact"
         href: contact.qmd
   page-footer:
-    # left: "© INNERSPEECH · Projet ANR JCJC 2026 · Laboratoire Parole et Langage (CNRS / Aix-Marseille Université)"
-    # website:
-    # page-footer:
     left: |
       <img src="assets/anr.jpeg"
            alt="Agence nationale de la recherche"

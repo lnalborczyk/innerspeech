@@ -1,31 +1,31 @@
 ---
 title: "La recherche"
-subtitle: "Pourquoi la parole intérieure est-elle différente pour chacun de nous ?"
+subtitle: "Pourquoi la parole intérieure est-elle si différente pour chacun de nous ?"
 ---
 
 ::: {.page-lead}
 <div class="section-kicker">LA SCIENCE, ACCESSIBLE À TOUTES ET TOUS</div>
 # Explorer notre vie mentale silencieuse
 
-Nous savons parler à voix haute. Nous pouvons aussi « parler dans notre tête ». Mais cette parole silencieuse ne se manifeste pas de la même manière chez tout le monde. Le projet **INNERSPEECH** étudie ses formes, les mécanismes cérébraux qui la rendent possible et la manière dont elle pourrait se développer.
+Le terme de "parole intérieure" (ou "endophasie") désigne la production *mentale* de parole, c'est à dire sans mouvement visible ou son audible. Cette parole silencieuse ne se manifeste pas de la même manière chez tout le monde. Le projet **INNERSPEECH** étudie ses formes, les mécanismes cérébraux qui la rendent possible et si différente entre les individus, et la manière dont elle pourrait se développer dans l'enfance.
 :::
 
 ::: {#diversite .research-panel}
 <div class="research-index">01 / COMPORTEMENT & EEG</div>
 ## Des voix intérieures différentes
 
-Certaines personnes éprouvent une voix intérieure particulièrement nette. D'autres ont une pensée verbale peu ou pas accompagnée de sensations auditives. L'**anendophasie** désigne une expérience absente ou très limitée de parole intérieure, selon la manière dont elle est définie et mesurée.
+Certaines personnes éprouvent une voix intérieure particulièrement nette. D'autres ont une pensée verbale peu ou pas accompagnée de sensations auditives. L'**anendophasie** désigne une expérience absente ou très limitée de parole intérieure.
 
-Nous étudierons si ces différences sont associées à la façon dont les personnes distinguent et organisent mentalement les **sons de la parole**. Une étude en ligne et une étude en laboratoire avec **électroencéphalographie (EEG)** combineront questionnaires, jugements de similarité entre voyelles et mesures cérébrales.
+Nous étudierons si ces différences sont associées à la façon dont les personnes distinguent et organisent mentalement les **sons de la parole**. Une étude en ligne et une étude en laboratoire avec **électroencéphalographie (EEG)** combineront questionnaires, jugements de similarité, et mesures cérébrales.
 
-<div class="research-note">**L'idée à tester :** une parole intérieure plus auditive pourrait être associée à des représentations des sons plus précises ou plus stables. Il s'agit d'une hypothèse, pas d'un résultat acquis.</div>
+<div class="research-note">**L'idée à tester :** une parole intérieure plus auditive pourrait être associée à des représentations des sons plus précises ou plus stables.</div>
 :::
 
 ::: {#cerveau .research-panel}
 <div class="research-index">02 / MEG & IRM 7 TESLAS</div>
 ## Ce qui se passe dans le cerveau
 
-Pour mieux comprendre les mécanismes de la parole intérieure, nous comparerons plusieurs situations : **parler intérieurement, imaginer entendre une voix, lire silencieusement et percevoir de la parole**.
+Pour mieux comprendre les mécanismes de la parole intérieure, nous comparerons plusieurs situations : **parler intérieurement, imaginer entendre une voix, lire silencieusement, et percevoir de la parole**.
 
 La **magnétoencéphalographie (MEG)** aide à comprendre *quand* les représentations apparaissent, tandis que l'**IRM fonctionnelle à très haut champ (7T)** aide à étudier *où* elles prennent place. Le projet examinera aussi la communication entre des régions cérébrales associées à la préparation de la parole et à l'audition.
 
@@ -40,11 +40,11 @@ Nous développerons un **modèle informatique** inspiré de la production de la 
 
 En empêchant ensuite l'exécution effective des mouvements, nous chercherons à comprendre comment les prédictions sensorielles peuvent continuer d'exister sans parole prononcée. Les simulations seront confrontées aux observations recueillies chez les participants.
 
-<div class="research-note">**La question :** peut-on expliquer, à partir de mécanismes d'apprentissage et d'inhibition, pourquoi la parole intérieure est parfois riche en sensations et parfois beaucoup plus abstraite ?</div>
+<div class="research-note">**La question :** peut-on expliquer, à partir de mécanismes d'apprentissage et d'inhibition, pourquoi la parole intérieure est parfois riche en sensations et parfois plus abstraite ?</div>
 :::
 
 ## Une recherche ouverte et rigoureuse
 
-Les études feront l'objet des autorisations éthiques et réglementaires requises. Lorsque cela sera possible, le projet partagera ses méthodes, ses codes et des données dé-identifiées dans des ressources scientifiques ouvertes, tout en respectant les exigences de protection des données.
+Les études feront l'objet des autorisations éthiques et réglementaires requises. Lorsque cela sera possible, le projet partagera ses méthodes, ses codes, et des données dé-identifiées dans des ressources scientifiques ouvertes, tout en respectant les exigences de protection des données.
 
 <a class="cta primary" href="participer.qmd">Découvrir les études prévues ↗</a>

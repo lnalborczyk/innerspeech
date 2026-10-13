@@ -3,19 +3,6 @@ title: "Recrutements"
 subtitle: "Contribuer à une recherche à l'interface des neurosciences, des sciences du langage, et de la modélisation informatique."
 ---
 
-<!--
-
-::: {.page-lead}
-
-<div class="section-kicker">REJOINDRE L'ÉQUIPE</div>
-# Construire ensemble les modèles de la pensée verbale.
-
-INNERSPEECH réunit des approches expérimentales, neuroscientifiques et computationnelles. Cette page présente les perspectives de recrutement ; **aucune offre de postdoctorat n'est ouverte à ce jour**.
-
-:::
-
--->
-
 ::: {.job-card}
 
 <div class="study-header"><span class="study-code">POSTDOCTORAT · 24 MOIS</span><span class="study-state">RECRUTEMENT FUTUR · CALENDRIER À CONFIRMER</span></div>
@@ -42,4 +29,4 @@ Le volet expérimental du projet bénéficie d'un doctorant recruté en 2026. Ce
 
 ## Étudiant·es et collaborations
 
-Les propositions de stages, de projets de Master et de collaborations scientifiques pourront être examinées en fonction des capacités d'encadrement et des objectifs du projet. Contactez l'équipe avec une présentation succincte de vos intérêts et compétences.
+Les propositions de stages, de projets de Master, et de collaborations scientifiques pourront être examinées en fonction des capacités d'encadrement et des objectifs du projet. Contactez l'équipe avec une présentation succincte de vos intérêts et compétences.

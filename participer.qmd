@@ -4,7 +4,7 @@ subtitle: "Votre manière de penser est précieuse pour la recherche."
 ---
 
 ::: {.page-lead}
-<div class="section-kicker">APPEL À PARTICIPATION · CALENDRIER PRÉVISIONNEL</div>
+<div class="section-kicker">APPEL À PARTICIPATION</div>
 # 
 
 Vous avez une voix intérieure très vive ? Vous pensez avec des mots mains n'entendez pas de "voix" intérieure ? Vous n'avez pas l'impression de parler dans votre tête ? **Toutes ces expériences nous intéressent.** Les recrutements ci-dessous ne sont **pas encore ouverts** : cette page sera mise à jour lorsque les protocoles auront reçu les autorisations nécessaires et que les modalités pratiques seront fixées.
@@ -16,7 +16,7 @@ Vous avez une voix intérieure très vive ? Vous pensez avec des mots mains n'en
 
 **<span class="location">Aix-en-Provence · Comportement & Électroencéphalographie (EEG)</span>**
 
-Nous prévoyons d'inviter des adultes à écouter des sons de la parole, notamment des voyelles, puis à indiquer à quel point ils se ressemblent. Des questionnaires porteront également sur leur expérience de parole intérieure. Pendant une partie de l'étude, l'activité électrique du cerveau sera enregistrée à l'aide d'électrodes placées sur le cuir chevelu.
+Cette étude vise à comprendre les mécanismes cérébraux en jeu lorsque l'on se **parle intérieurement**, lorsque l'on parle à voix haute, ou lorsque l'on **écoute de la parole**, mais vise également à comprendre l'impact de la fréquence et vivacité de la parole intérieure sur la perception et la représentation des sons de parole. Pendant une partie de l'étude, l'activité électrique du cerveau sera enregistrée à l'aide d'électrodes placées sur le cuir chevelu (EEG).
 
 **Ce qu'il faut savoir :**
 
@@ -37,8 +37,8 @@ Cette étude vise à comprendre les mécanismes cérébraux en jeu lorsque l'on 
 
 **Ce qu'il faut savoir :**
 
-- La MEG enregistre les champs magnétiques associés à l'activité cérébrale ; l'IRM permet d'en étudier la localisation.
-- Le protocole prévoit d'inclure **40 participants adultes**.
+- La MEG enregistre les champs magnétiques associés à l'activité cérébrale avec une résolution temporelle de l'ordre de la millisecond ; l'IRM permet d'en étudier la localisation avec une résolution spatiale de l'ordre du millimètre cube.
+- Ce protocole prévoit d'inclure **40 à 50 participants adultes**.
 - Des critères particuliers d'éligibilité et de sécurité s'appliqueront à l'IRM ; ils seront précisés lors du recrutement.
 - Les dates, la durée des visites, l'indemnisation éventuelle, et les modalités de candidature restent à confirmer.
 
