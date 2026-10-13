@@ -37,7 +37,7 @@ Cette étude vise à comprendre les mécanismes cérébraux en jeu lorsque l'on 
 
 **Ce qu'il faut savoir :**
 
-- La MEG enregistre les champs magnétiques associés à l'activité cérébrale avec une résolution temporelle de l'ordre de la millisecond ; l'IRM permet d'en étudier la localisation avec une résolution spatiale de l'ordre du millimètre cube.
+- La MEG enregistre les champs magnétiques associés à l'activité cérébrale avec une résolution temporelle de l'ordre de la milliseconde ; l'IRM permet d'en étudier la localisation avec une résolution spatiale de l'ordre du millimètre cube.
 - Ce protocole prévoit d'inclure **40 à 50 participants adultes**.
 - Des critères particuliers d'éligibilité et de sécurité s'appliqueront à l'IRM ; ils seront précisés lors du recrutement.
 - Les dates, la durée des visites, l'indemnisation éventuelle, et les modalités de candidature restent à confirmer.
